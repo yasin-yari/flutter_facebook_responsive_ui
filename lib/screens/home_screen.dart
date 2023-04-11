@@ -9,7 +9,7 @@ class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
-
+//responsive home screen
 class _HomeScreenState extends State<HomeScreen> {
   final TrackingScrollController _trackingScrollController =
       TrackingScrollController();
