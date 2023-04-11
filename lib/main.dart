@@ -5,7 +5,7 @@ import 'package:flutter_facebook_responsive_ui/screens/screens.dart';
 void main() {
   runApp(MyApp());
 }
-//main 
+//main  
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
